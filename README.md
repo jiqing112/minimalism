@@ -1,26 +1,26 @@
-#What's Xenlism?                                 
+#什么是 Xenlism?                                 
 
-xenlism is Computer Graphic And Programming project to make something better.
-xenlism is about minimalism and realism.
+xenlism是让事物变得更好的计算机图形和编程项目.  
+enlism是关于极简主义和现实主义.  
 
 
-#What's Xenlism : Minimalism?               
-xenlism minimalism is Gnome / GTK theme for Gnome 3.x desktop environment.                       
-xenlism minimalism inspired by Elementary OS.                              
+#什么是极简Xenlism ?               
+Xenlism 极简主义 是一个 Gnome / GTK theme for Gnome 3.x 桌面环境.                         
+极简Xenlism受支持于 Elementary OS.                               
                        
 **[Home Page](http://xenlism.github.io/Minimalism/) http://xenlism.github.io/Minimalism/**                           
                              
-#Why you donate to me?                                
-b'cuz you can run Xenlism project keep alive.                             
-every buck of your donation help me to create newthing.                           
+#如何向我们捐献?                                
+为了使 Xenlism 项目保持活力.                             
+每次一捐献都会帮助我们创造新的进展.                           
                           
-#Donate                                     
+#捐献                                     
 Paypal : [https://paypal.me/xenatt](https://paypal.me/xenatt)                           
 Bitcoin: 32hEYx2CVFQxCuimR7ExajqxJfr8jtdYY1                       
                       
-#How To install Xenlism Minimalism?                            
-How to Install Xenlism Minimalism?                      
-Xenlism : Minimalism Support Ubuntu/Debian Apt-Get Repository.                     
+#如何安装 极简Xenlism?                            
+如何安装 极简Xenlism?                       
+极简Xenlism被 Ubuntu/Debian 的Apt-Get仓库所支持.                     
                   
 #Arch linux                         
 sudo nano /etc/pacman.conf                    
@@ -45,11 +45,11 @@ sudo apt-get install xenlism-minimalism-theme
 #Debian                    
 sudo nano /etc/apt/sources.list                
                         
-add this line to file.                 
+对文件追加以下内容                
 deb http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main               
 deb-src http://ppa.launchpad.net/xenatt/xenlism/ubuntu bionic main                  
                   
-Run command                                
+运行命令                             
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2B80AC38                       
 sudo apt-get update                   
 sudo apt-get install xenlism-minimalism-theme                     
@@ -78,8 +78,8 @@ sudo zypper install xenlism-minimalism-theme
 And Other Distro [Click Here](https://xenlism.github.io/Minimalism)                   
                   
  
-#COPYRIGHT                 
-Xenlism Minimalism 18.05 gnome-shell theme base on [Arc Theme](https://github.com/horst3180/Arc-theme).                     
+#版权声明                 
+Xenlism 18.05 gnome-shell theme base on [Arc Theme](https://github.com/horst3180/Arc-theme).                     
 GTK theme Original ([Gnome-OSC ](https://github.com/paullinuxthemer/gnome-osc-themes)) by PAULXFCE (under GPL v2)                    
 [![GNU GENERAL PUBLIC LICENSE](http://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl.txt/)                           
 **xenlism - Minimalism** by [Nattapong Pullkhow](https://twitter.com/xenatt) is licensed under a [GNU GENERAL PUBLIC LICENSE - GPL](https://www.gnu.org/licenses/gpl.txt)                             
